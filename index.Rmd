@@ -1,0 +1,27 @@
+---
+title: "<center><small>Foundation & Conferences</small>"
+author: "<center><a href='http://twitter.com/whyRconf'><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;<a href='http://facebook.com/whyRconf/'><i class='fa fa-facebook'></i></a>&nbsp;&nbsp;<a href='https://github.com/WhyRFoundation'><i class='fa fa-github'></i></a>&nbsp;&nbsp;<br></center>"
+output: 
+  html_document
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+
+[[Foundation]](http://whyr.pl/foundation/) &nbsp;&nbsp; [[2017 Conference]](http://whyr.pl/2017/) &nbsp;&nbsp; [[2018 Conference]](http://whyr2018.pl/)
+<br><br>
+[[2017 After Movie]](https://vimeo.com/239259242) &nbsp;&nbsp; [[2017 Photos]](https://www.facebook.com/whyRconf/photos/) &nbsp;&nbsp; [[2017 Presentations]](https://github.com/WhyR2017/prezentacje)
+
+```{r, echo=FALSE, results='asis'}
+# knitr::kable(data.frame(nazwa = c("Hackathon", "Warsztaty", "Konferencja"),
+#                         spacja = c(" -- ", " -- ", " -- "),
+#                         data = c("26.09.2017", "27.09.2017", "27-28.09.2017")),
+#              format = "html", col.names = NULL, align = c("l", "c", "r"))
+```
+
+<img src="found.png">
+</center>
