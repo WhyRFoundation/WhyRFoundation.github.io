@@ -1,5 +1,5 @@
 ---
-title: "<center><small>Foundation & Conferences</small>"
+title: "<center><small>Foundation & Conferences (kontakt@whyr.pl)</small>"
 author: "<center><a href='http://twitter.com/whyRconf'><i class='fa fa-twitter'></i></a>&nbsp;&nbsp;<a href='http://facebook.com/whyRconf/'><i class='fa fa-facebook'></i></a>&nbsp;&nbsp;<a href='https://github.com/WhyRFoundation'><i class='fa fa-github'></i></a>&nbsp;&nbsp;<br></center>"
 output: 
   html_document
@@ -12,9 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center>
 
-[[Foundation]](http://whyr.pl/foundation/) &nbsp;&nbsp; [[2017 Conference]](https://whyr2017.github.io/) &nbsp;&nbsp; [[2018 Conference]](http://whyr2018.pl/)
+[[Foundation]](http://whyr.pl/foundation/) &nbsp;&nbsp; [[2017 Conference]](https://whyr2017.github.io/) &nbsp;&nbsp; [[2018 Conference]](http://whyr2018.pl/) &nbsp;&nbsp; [[2019 Conference]](http://whyr.pl/2019/)
 <br><br>
 [[2017 After Movie]](https://vimeo.com/239259242) &nbsp;&nbsp; [[2017 Photos]](https://www.facebook.com/whyRconf/photos/) &nbsp;&nbsp; [[2017 Presentations]](https://github.com/WhyR2017/prezentacje)
+
+2018 After Movie &nbsp;&nbsp; [[2018 Photos]](https://www.facebook.com/whyRconf/photos/) &nbsp;&nbsp; [[2018 Presentations]](https://github.com/WhyR2018/presentations)
 
 ```{r, echo=FALSE, results='asis'}
 # knitr::kable(data.frame(nazwa = c("Hackathon", "Warsztaty", "Konferencja"),
