@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-redirect-from
+---
+redirect_from: "/2020_new"
+redirect_to: "https://whyr2020.netlify.com/"
+---
+
